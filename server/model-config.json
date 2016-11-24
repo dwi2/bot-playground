@@ -35,5 +35,9 @@
   "Message": {
     "dataSource": "db",
     "public": true
+  },
+  "postback": {
+    "dataSource": "db",
+    "public": true
   }
 }
